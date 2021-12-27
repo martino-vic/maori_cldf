@@ -1,6 +1,6 @@
 # English borrowings in Maori
 
-[![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)]
 
 This repository contains data about lexical borrowings from English into Maori from various sources. The scripts that were used for minining and preprocessing the data are partly made available in the subfolders "preprocessing". More is to come soon.
 
