@@ -1,6 +1,6 @@
 # Terry Duval's 1995 dissertation about English gainwords in Maori
 
-[![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
+![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)
 
 This folder contains CLDF-conform data about placenames borrowed from English into Maori from the first 22 pages of volume 3 of [A preliminary dictionary of Maori gainwords compiled on historical principles](https://ir.canterbury.ac.nz/handle/10092/4865) (1995) by Terry P. Duval
 
