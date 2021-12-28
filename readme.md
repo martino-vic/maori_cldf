@@ -1,8 +1,6 @@
-[![DOI](https://zenodo.org/badge/435342453.svg)](https://zenodo.org/badge/latestdoi/435342453)
+![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg) [![DOI](https://zenodo.org/badge/435342453.svg)](https://zenodo.org/badge/latestdoi/435342453)
 
 # English borrowings in Maori
-
-![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)
 
 This repository contains data about lexical borrowings from English into Maori from various sources. The scripts that were used for minining and preprocessing the data are partly made available in the subfolders "preprocessing". More is to come soon.
 
