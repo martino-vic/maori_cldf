@@ -1,6 +1,6 @@
 # Wiktionary data on English borrowings into Maori
 
-![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg)
+![CLDF validation](https://raw.githubusercontent.com/martino-vic/maori_cldf/master/badge.svg)
 
 This folder contains CLDF-conform data about English lexical borrowings into Maori
 

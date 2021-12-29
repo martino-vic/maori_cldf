@@ -1,4 +1,4 @@
-![CLDF validation](https://github.com/lexibank/uralex/workflows/CLDF-validation/badge.svg) [![DOI](https://zenodo.org/badge/435342453.svg)](https://zenodo.org/badge/latestdoi/435342453)
+![CLDF validation](https://raw.githubusercontent.com/martino-vic/maori_cldf/master/badge.svg) [![DOI](https://zenodo.org/badge/435342453.svg)](https://zenodo.org/badge/latestdoi/435342453)
 
 # English borrowings in Maori
 
